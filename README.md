@@ -1,7 +1,7 @@
 <img src="./catcoffee.gif" width="40%" align="right" alt="Cat drinking coffe gif">
 
 ## 👋 Hi there, I'm Leo
-- 👨‍🎓 Computer engineering student
+- 👨‍🎓 Computer engineer
 - ☀️ Google Summer of Code 2021 student
     - [Check out my project here!](https://gist.github.com/leoruas/ec2de571a1ba8f61858eaf38baf2f800)
 
